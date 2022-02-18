@@ -1,0 +1,17 @@
+body{
+    overflow-x: hidden !important;
+}
+
+.btn{
+    
+    border-radius: 1.25rem;
+}
+.pp:hover{
+   color: white;  
+   cursor: pointer;
+}
+i:hover{
+    cursor: pointer;
+    color: white;
+}
+
