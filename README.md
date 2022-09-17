@@ -1,1 +1,1 @@
-# Foodiesweb: https://ambiliambu.github.io/Foodiesweb/
+# Foodies Website Demo: https://ambiliambu.github.io/Foodiesweb/
